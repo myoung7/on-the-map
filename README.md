@@ -1,6 +1,8 @@
 ## On The Map
 iOS app that posts user-generated location information to a shared map, pulling the locations of fellow Udacity Nanodegree students, with custom messages about themselves or their learning experience.
 
+Application is fully operational. Just import the project into Xcode. Supports iPhone and iPad.
+
 Features:
 - Navigate interactable map and see pins of Udacity Students' locations.
 - Save your own current location and even a related URL.
